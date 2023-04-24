@@ -3,6 +3,21 @@
 - Email: georgeyoussif@aucegypt.edu
 - LinkedIn: linkedin.com/in/george-emil/
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+Detail-oriented, responsible, and a committed engineer with a get-it-done, on-time, and high-quality product spirit, and experience defining requirements, designing, implementing, testing, and delivering complex back-end and web/mobile applications using various programming languages and technologies. Technical proficiencies include:
+
+- Programming Languages: C/C++, Python (Django), PHP (lumen), Java
+- Technologies and tools: ELK stack, Docker, Git, JIRA, SoapUI, Postman
+- Methodologies: Agile software development Object-Oriented Programing, Test-driven development
+- Graduate from the American University in Cairo with a major in Computer Engineering.
+- Digital Artist in my free time drawing comics, character design, and concept art.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### PROFESSIONAL EXPERIENCE
 **Senior Back-End Software Engineer**
 Octo | Mar 2021 – present | Cairo, Egypt
@@ -13,12 +28,6 @@ Octo | Mar 2021 – present | Cairo, Egypt
 - Mentored and onboarded new employees to our system, technologies, and tools.
 - Reviewed colleagues’ code to maintain the quality, security, and maintainability of our code.
 
-### EDUCATION
-**American University in Cairo**
-Bachelor of Computer Science and Engineering
-2015 – 2020 | Cumulative GPA: 3.15
-
-### WORK EXPERIENCE
 **Front-End Software Development Intern**
 Nabta Health | Mar 2020 – Apr 2020 | Remote, United Arab Emirates
 - Debugged a React Native mobile application.
@@ -38,6 +47,13 @@ AUC Rhetoric Department | Dec 2019 – Feb 2020 | Cairo, Egypt
 **Quality Engineer**
 AUC - Tech Solutions | Jan 2019 – May 2019 | Cairo, Egypt
 - Inspected and tested the banner website to ensure it met technical standards and created quality and safety documentation.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+### EDUCATION
+**American University in Cairo**
+Bachelor of Computer Science and Engineering
+2015 – 2020 | Cumulative GPA: 3.15
 
 ### COURSES
 - Software Engineering
