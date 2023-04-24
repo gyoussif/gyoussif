@@ -1,13 +1,12 @@
 # GEORGE YOUSSIF
 ## Senior Software Engineer
+## CONTACTS
 - Email: georgeyoussif@aucegypt.edu
 - LinkedIn: linkedin.com/in/george-emil/
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **ABOUT ME**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
 
 Detail-oriented, responsible, and a committed engineer with a get-it-done, on-time, and high-quality product spirit, and experience defining requirements, designing, implementing, testing, and delivering complex back-end and web/mobile applications using various programming languages and technologies. Technical proficiencies include:
 
@@ -17,8 +16,9 @@ Detail-oriented, responsible, and a committed engineer with a get-it-done, on-ti
 - Graduate from the American University in Cairo with a major in Computer Engineering.
 - Digital Artist in my free time drawing comics, character design, and concept art.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-### PROFESSIONAL EXPERIENCE
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## PROFESSIONAL EXPERIENCE
 **Senior Back-End Software Engineer**
 Octo | Mar 2021 – present | Cairo, Egypt
 - Led the backend team to constantly deliver features and fixes in a well documented, easily understandable, scalable and tested code.
@@ -48,14 +48,12 @@ AUC Rhetoric Department | Dec 2019 – Feb 2020 | Cairo, Egypt
 AUC - Tech Solutions | Jan 2019 – May 2019 | Cairo, Egypt
 - Inspected and tested the banner website to ensure it met technical standards and created quality and safety documentation.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-### EDUCATION
+## EDUCATION
 **American University in Cairo**
 Bachelor of Computer Science and Engineering
 2015 – 2020 | Cumulative GPA: 3.15
 
-### COURSES
+## COURSES
 - Software Engineering
 - Databases
 - Object-Oriented Development
@@ -68,36 +66,21 @@ Bachelor of Computer Science and Engineering
 - Wide Area Networks
 - Secure Systems Engineering
 
-### PROJECTS
+## PROJECTS
 - Designed, with a group, a Verifiable Decentralized Computing-Resources Sharing System based on Yao’s Garbled Circuits and developed using Golang on top of the EOS blockchain communication network.
 - A secure peer-to-peer image transfer application on UDP and RPC.
 - Self-Navigating car using STM32 microcontroller. Built, in a team of four, a maze solving robot car that used colour detection, obstacle avoidance, and GPS support to navigate its way through the different points of the maze.
 
-### SKILLS
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> SKILLS</b>
+
 #### Languages
-- Python
-- PHP
-- C/C++
-- C#
-- Java
-- SQL
+Python, PHP, C/C++, C#, Java, SQL
 
 #### Technologies
-- Django
-- Lumen
-- ELK Stack
-- MySQL
-- PostgreSQL
-- MERN Stack
-- AWS
-- Docker
-- Kafka
-- Redis
+Django, Lumen, ELK Stack, MySQL, PostgreSQL, MERN Stack, AWS, Docker, Kafka, Redis
 
-#### Other
-- Git
-- Unit testing
-- Agile Development
+#### Other 
+Git, Unit testing, Agile Development
 
 
 <!--
