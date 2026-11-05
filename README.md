@@ -10,6 +10,6 @@ Backend engineer with 6+ years across commerce, fintech, B2B SaaS and search inf
 
 **Stack:** Python · Go · FastAPI · Django · PostgreSQL · Redis · Kafka · Docker · Kubernetes · Argo CD · GCP / AWS / Azure · Ory · OAuth2 · AI-assisted development (Claude Code)
 
-Most of my work lives in private company repositories, so the code here is limited to small samples.
+My work lives in private company repositories. Happy to walk through architecture and code in an interview.
 
 [LinkedIn](https://www.linkedin.com/in/george-youssif/) · georgeyoussif@aucegypt.edu
